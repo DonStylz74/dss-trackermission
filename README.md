@@ -173,7 +173,7 @@ DSS Trackermission requires:
 ## Authors
 
 - **Original author:** Kamkus
-- **Don Stylz** - [Don_Stylz74](https://github.com/DonStylz74)
+- **Modified by Don Stylz** - [Don_Stylz74](https://github.com/DonStylz74)
 
 
 
