@@ -179,8 +179,6 @@ DSS Trackermission requires:
 
 ## License
 
-Review the LICENSE file included with the resource for the licensing terms that apply to this version.
-
 Because DSS Trackermission is derived from an existing project, retain the appropriate original copyright, licence notices and attribution where required.
 
 
