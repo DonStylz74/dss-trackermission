@@ -141,7 +141,7 @@ DSS Trackermission requires:
 
 - `qtarget`
 
-- `mgc` - (optional) -- only required when `Config.GPSRemoval.minigame = 'mgc'`
+- `mgc` - (optional) -- only required when `Config.GPSRemoval.minigame = 'mgc'`  Grab it here: https://github.com/boiidevelopment/mgc
 
 
 
